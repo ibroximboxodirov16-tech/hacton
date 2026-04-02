@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+h1{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+.Dashboard{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+}
+
+.Orders{
+    position: absolute;
+    top: 130px;
+    left: 30px;
+}
+
+.Menu{
+    position: absolute;
+    top: 160px;
+    left: 30px;
+}
+
+.Customer{
+    position: absolute;
+    top: 190px;
+    left: 30px;
+}
+
+.Analytic{
+    position: absolute;
+    top: 220px;
+    left:30px;
+}
+
+.Setting{
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+
+.icon{
+    position: absolute;
+    top: 100px;
+    left: 5px;
+}
+
+.container{
+    position: absolute;
+    top: 130px;
+    left: 5px;
+}
+
+.menu{
+    position: absolute;
+    top: 160px;
+    left: 5px;
+}
+
+.costumers{
+    position: absolute;
+    top: 190px;
+    left: 5px;
+}
+
+.Analytics{
+    position: absolute;
+    top: 220px;
+    left: 5px;
+}
+
+.Settings{
+    position: absolute;
+    top: 250px;
+    left: 5px;
+}
+
+.New_Order{
+    width: 120px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #935253;
+    position: absolute;
+    top: 570px;
+}
+
+.help{
+    position: absolute;
+    top: 630px;
+    left: 30px;
+}
+
+.Help_Center{
+    position: absolute;
+    top: 630px;
+    left: 5px;
+}
+
+input{
+    border-radius: 10%;
+    position: absolute;
+    left: 300px;
+    top: 20px;
+}
+
+.Search_desserts{
+    position: absolute;
+    left: 270px;
+    top: 20px;
+}
+
+.cake{
+    position: absolute;
+    left: 270px;
+    top: 70px;
+}
+
+.button{
+    position: absolute;
+    left: 1100px;
+    top: 20px;
+}
+
+.chef{
+    position: absolute;
+    left: 1150px;
+    top: 20px;
+}
+
+.popular{
+    position: absolute;
+    left: 900px;
+    top: 100px;
+}
+
+.ViewAll{
+    color: #935253;
+    position: absolute;
+    left: 1150px;
+    top: 100px;
+}
+
+.bg{
+    position: absolute;
+    left: 1000px;
+    top: 150px;
+}
+
+.warmcookies{
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+}
+
+.Calories {
+    width: 100px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #F7F4E5;
+    position: absolute;
+    left: 280px;
+    top: 450px;
+}
+
+.Sugar {
+    width: 100px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #CBFECC4D;
+    position: absolute;
+    left: 400px;
+    top: 450px;
+}
+
+.fat {
+    width: 100px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #FADCD2;
+    position: absolute;
+    left: 520px;
+    top: 450px;
+}
+
+.Carbs {
+    width: 100px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #F2EEDD;
+    position: absolute;
+    left: 640px;
+    top: 450px;
+}
+
+.menuselect{
+    font-size: 20px;
+    position: absolute;
+    left: 280px;
+    top: 550px;
+}
+
+.all{
+    background-color: #935253;
+    position: absolute;
+    left: 520px;
+    top: 550px;
+}
+
+.tort{
+    background-color: #F7F4E5;
+    position: absolute;
+    left: 560px;
+    top: 550px;
+}
+
+.IceCream{
+    background-color: #F7F4E5;
+    position: absolute;
+    left: 620px;
+    top: 550px;
+}
+
+.Drinks{
+    background-color: #766057;
+    position: absolute;
+    left: 710px;
+    top: 550px;
+}
+
+.artisandonut{
+    
+}
